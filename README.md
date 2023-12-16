@@ -1,0 +1,1 @@
+# Intellij-qodana-code-quality-tool
